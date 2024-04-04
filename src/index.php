@@ -10,7 +10,7 @@ require_once "classes/Database.php";
 
 	<!-- header: Include CSS files and necessary bootstrap files form the web --> 
 	<head>
-		<title>Gästebuch</title>
+		<title>Guestbook</title>
 		<meta charset="UTF-8">
 		<?php require_once "includes/include_bootstrap.php"; ?>
 		<link rel="stylesheet" href="../resources/css/blink.css">
@@ -24,9 +24,9 @@ require_once "classes/Database.php";
                 <div class="col"></div>
                 <div class="col-14">
                     <?php echo str_repeat( "<br>",3 ); ?>
-                    <h1 style='text-align:center;font-family:"Brush Script MT";font-size:60px'>Dein Leben schreibt die schönsten Geschichten<br></h1>
+                    <h1 style='text-align:center;font-family:"Brush Script MT";font-size:60px'>Your life is a story<br></h1>
                     <?php echo str_repeat( "<br>",3 ); ?>
-                    <h1 style='text-align:center;font-family:"Brush Script MT";font-size:80px'><b>Teile sie mit uns ...</b></h1>
+                    <h1 style='text-align:center;font-family:"Brush Script MT";font-size:80px'><b>Share it with us ...</b></h1>
                     <?php echo str_repeat( "<br>",3 ); ?>
                 </div>
                 <div class="col"></div>

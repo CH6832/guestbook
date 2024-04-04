@@ -10,7 +10,7 @@ require_once "classes/Database.php"
 
 	<!-- header: Include CSS files and necessary bootstrap files form the web --> 
 	<head>
-		<title>Gästebuch</title>
+		<title>Guestbook</title>
 		<meta charset="UTF-8">
 		<?php require_once "includes/include_bootstrap.php"; ?>
 		<link rel="stylesheet" href="../resources/css/blink.css">

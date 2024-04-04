@@ -12,7 +12,7 @@
         <!-- Grid column -->
         <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
           <h6 class="text-uppercase mb-4 font-weight-bold">
-            GÄSTEBUCH
+            GUESTBOOK
           </h6>
           <p>
             Diese Seite ist ein online Gästebuch. Nutzer sind herzlich
