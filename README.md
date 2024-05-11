@@ -23,6 +23,8 @@ An onlin Guestbook that allows entries and the deletion of them. Furthermore thc
     ├── documentation/ - short documentation of project
     ├── resources/ - images and pdf files about the documentation
     ├── src/ - source code
+    ├── CODE_OF_CONDUCT.md - project code of conduct
+    ├── COPYRIGHT - project copyright
     ├── LICENSE.txt - project license
     └── README.md - project structure
 
@@ -48,10 +50,10 @@ An onlin Guestbook that allows entries and the deletion of them. Furthermore thc
 
 This project is licensed under the terms of the [Creative Commons Attribution Share Alike 4.0 International](LICENSE).
 
-## COPYRIGHT
+## :copyright: Copyright
 
 See the [COPYRIGHT](COPYRIGHT) file for copyright and licensing details.
 
-## Code of Conduct
+## :straight_ruler: Code of Conduct
 
 Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing to this project.
