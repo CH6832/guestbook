@@ -47,3 +47,11 @@ An onlin Guestbook that allows entries and the deletion of them. Furthermore thc
 ## :bookmark: License
 
 This project is licensed under the terms of the [Creative Commons Attribution Share Alike 4.0 International](LICENSE).
+
+## COPYRIGHT
+
+See the [COPYRIGHT](COPYRIGHT) file for copyright and licensing details.
+
+## Code of Conduct
+
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing to this project.
