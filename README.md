@@ -23,7 +23,6 @@ An onlin Guestbook that allows entries and the deletion of them. Furthermore thc
     ├── documentation/ - short documentation of project
     ├── resources/ - images and pdf files about the documentation
     ├── src/ - source code
-    ├── CODE_OF_CONDUCT.md - project code of conduct
     ├── COPYRIGHT - project copyright
     ├── LICENSE.txt - project license
     └── README.md - project structure
